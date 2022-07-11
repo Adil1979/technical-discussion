@@ -4,3 +4,6 @@ One
 
 ### Gists
 This is a good example of [my code](https://gist.github.com/Adil1979/dd160a10ebc75bb3c732f61b5fe7d7bf)
+
+###Colab Example 
+This is the [notebook](https://github.com/Adil1979/technical-discussion/blob/main/technical_docs.ipynb)
